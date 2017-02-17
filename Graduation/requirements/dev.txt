@@ -1,0 +1,3 @@
+#开发过程所需的依赖
+-r common.txt
+Forgerypy==0.1
