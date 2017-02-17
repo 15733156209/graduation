@@ -1,2 +1,3 @@
 # graduation project-ing...
 基于《Flask web 开发》《HTML/CSS》
+[Lofter](zhangxx5678.lofter.com)
