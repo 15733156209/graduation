@@ -11,9 +11,9 @@ graduation :blush: project :blush: ing... :blush:
 <br>
 
 ### 利用Linux+uWSGI+Nginx+Flask部署应用
-![uWSGI文档](http://uwsgi-docs-zh.readthedocs.io/zh_CN/latest/WSGIquickstart.html#uwsgipython)<br>
-![Nginx官方文档](http://www.nginx.cn/doc/)<br>
-![Flask官方文档](http://docs.jinkan.org/docs/flask/)<br>
+[uWSGI文档](http://uwsgi-docs-zh.readthedocs.io/zh_CN/latest/WSGIquickstart.html#uwsgipython)<br>
+[Nginx官方文档](http://www.nginx.cn/doc/)<br>
+[Flask官方文档](http://docs.jinkan.org/docs/flask/)<br>
 
 `/home/zhang/Graduation/uwsgi.ini文件`
 ```
