@@ -50,6 +50,8 @@ uwsgi uwsgi.ini
 
 ### 关于数据库
 可以选择把数据库更换为 `MongoDB` 或者 `MySQL`<br>
+```
 Python 连接 MongoDB 的库 `pymongo`<br>
 Python 连接 MySQL 的库 `pymysql`<br>
 Python 连接 Redis 的库 `redis`<br>
+```
