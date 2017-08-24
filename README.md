@@ -1,4 +1,4 @@
-![](https://travis-ci.org/Zhang21/graduation.svg?branch=master)
+![](https://travis-ci.org/Zhang21/graduation.svg)
 <br>
 graduation :blush: project :blush: ing... :blush:
 ========
